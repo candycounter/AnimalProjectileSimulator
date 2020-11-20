@@ -7,7 +7,6 @@ public class InstantiateChicken : MonoBehaviour
     public GameObject chicken;
     Transform transform;
 
-    bool fireChicken;
     void Start()
     {
 
